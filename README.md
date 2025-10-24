@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Mudassir!
 
-<!--
-**mudassir-codes-sys/mudassir-codes-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **self-taught developer** currently learning **Data Structures & Algorithms** and building cool **JavaScript projects** to strengthen my logic and frontend skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Doing
+- 📚 Learning **DSA with JavaScript**
+- 💻 Practicing small **JavaScript projects**
+- 🌱 Exploring **Git & GitHub** for version control
+- ⚙️ Planning to move toward **React.js** soon
+
+---
+
+### 🧰 Tech Stack
+- HTML • CSS • JavaScript
+- Git • GitHub • VS Code
+
+---
+
+### 📂 Featured Repositories
+- [DSA Repository](https://github.com/mudassir-codes-sys/DSA-)  
+  Personal practice repo for data structures and algorithms in JS.
+  
+- [JS Mini Projects](https://github.com/mudassir-codes-sys/js-mini-projects)  
+  Collection of small, interactive JS projects.
+
+---
+
+### 🌐 Let's Connect
+📧 Email: levelscure@gmail.com  
+💼 Portfolio (coming soon...)  
+
+---
+
+> “Every expert was once a beginner — keep building and keep learning.”
