@@ -1,20 +1,22 @@
 # 👋 Hi, I'm Mudassir!
 
-I'm a passionate **self-taught developer** currently learning **Data Structures & Algorithms** and building cool **JavaScript projects** to strengthen my logic and frontend skills.
+I'm a passionate **self-taught developer** currently building strong **programming logic** and learning **full-stack development concepts** through **JavaScript projects** and **databases**.
 
 ---
 
 ### 🚀 What I'm Doing
-- 📚 Learning **DSA with JavaScript**
-- 💻 Practicing small **JavaScript projects**
-- 🌱 Exploring **Git & GitHub** for version control
-- ⚙️ Planning to move toward **React.js** soon
+- 📚 Practiced **Data Structures & Algorithms** extensively in JavaScript
+- 💻 Building **JavaScript projects** to strengthen frontend skills
+- 🌱 Learning **Databases** (SQL & NoSQL) and their practical usage
+- ⚙️ Exploring **Git & GitHub** for version control
+- 🔜 Planning to move toward **React.js** and full-stack projects
 
 ---
 
 ### 🧰 Tech Stack
-- HTML • CSS • JavaScript
-- Git • GitHub • VS Code
+- **Frontend:** HTML • CSS • JavaScript
+- **Backend / Databases:** MySQL • MongoDB (learning)
+- **Tools:** Git • GitHub • VS Code
 
 ---
 
@@ -24,6 +26,9 @@ I'm a passionate **self-taught developer** currently learning **Data Structures 
   
 - [JS Mini Projects](https://github.com/mudassir-codes-sys/js-mini-projects)  
   Collection of small, interactive JS projects.
+  
+- [Database Practice](#)  
+  *(Coming soon)* Repo for practicing SQL queries, database design, and CRUD operations.
 
 ---
 
