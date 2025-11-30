@@ -1,34 +1,35 @@
 # 👋 Hi, I'm Mudassir!
 
-I'm a passionate **self-taught developer** currently building strong **programming logic** and learning **full-stack development concepts** through **JavaScript projects** and **databases**.
+I'm a passionate **self-taught developer** currently building strong **programming logic** and learning **React.js** to expand my frontend skills, after mastering **databases** and **Express.js**.
 
 ---
 
 ### 🚀 What I'm Doing
 - 📚 Practiced **Data Structures & Algorithms** extensively in JavaScript
-- 💻 Building **JavaScript projects** to strengthen frontend skills
-- 🌱 Learning **Databases** (SQL & NoSQL) and their practical usage
-- ⚙️ Exploring **Git & GitHub** for version control
-- 🔜 Planning to move toward **React.js** and full-stack projects
+- 💻 Built **interactive JavaScript projects** to strengthen frontend skills
+- 🌱 Learned **Databases** (SQL & NoSQL) and their practical usage
+- ⚙️ Built small backend services with **Express.js**
+- 🔜 Currently learning **React.js** and creating mini-projects
 
 ---
 
 ### 🧰 Tech Stack
-- **Frontend:** HTML • CSS • JavaScript
-- **Backend / Databases:** MySQL • MongoDB (learning)
+- **Frontend:** HTML • CSS • JavaScript • Tailwind CSS  
+- **Backend / Databases:** Express.js • MySQL • MongoDB  
 - **Tools:** Git • GitHub • VS Code
 
 ---
 
 ### 📂 Featured Repositories
 - [DSA Repository](https://github.com/mudassir-codes-sys/DSA-)  
-  Personal practice repo for data structures and algorithms in JS.
+  Practice repo for data structures and algorithms in JS.
   
 - [JS Mini Projects](https://github.com/mudassir-codes-sys/js-mini-projects)  
   Collection of small, interactive JS projects.
-  
-- [Database Practice](#)  
-  *(Coming soon)* Repo for practicing SQL queries, database design, and CRUD operations.
+
+- [React Mini Projects](https://github.com/mudassir-codes-sys/React-mini-projects)  
+  First React mini-project: Color Changer App with smooth background transitions.
+
 
 ---
 
