@@ -1,46 +1,63 @@
 # 👋 Hi, I'm Mudassir!
 
-I'm a passionate **self-taught full-stack developer** with hands-on experience in **frontend, backend, and databases**. I love building projects that solve real-world problems and enhance my programming logic.  
+I'm a **Full-Stack Developer** with hands-on experience building **scalable, real-world web applications** across frontend, backend, and databases. I focus on writing clean, maintainable code and delivering user-centric products.
 
 ---
 
-### 🚀 What I'm Doing
-- 📚 Practiced **Data Structures & Algorithms** extensively in JavaScript  
-- 💻 Built **interactive frontend projects** and **full-stack web applications**  
-- 🌱 Learned **Databases** (SQL & NoSQL) and implemented them in projects  
-- ⚙️ Built backend services with **Express.js** and connected them with frontend  
-- 🔜 Currently working on **full-stack projects**
+### 🚀 What I Do
+
+* 💻 Design and develop **end-to-end full-stack web applications**
+* 🔐 Implement **authentication, authorization, and secure APIs**
+* ⚙️ Build backend services and integrate them with modern frontends
+* 🗄️ Design and manage **SQL & NoSQL databases**
+* 📈 Optimize performance, state management, and application architecture
 
 ---
 
 ### 🧰 Tech Stack
-- **Frontend:** HTML • CSS • JavaScript • Tailwind CSS • React.js  
-- **Backend / Databases:** Node.js • Express.js • MySQL • MongoDB  
-- **Tools:** Git • GitHub • VS Code • Postman
+
+* **Frontend:** HTML • CSS • JavaScript • Tailwind CSS • React.js • Next.js
+* **Backend:** Node.js • Express.js • REST APIs
+* **Databases:** MySQL • MongoDB
+* **Tools & Platforms:** Git • GitHub • VS Code • Postman • Cloudinary • Stripe
 
 ---
 
 ### 📂 Featured Projects
 
-#### [Food Web Frontend](https://github.com/mudassir-codes-sys/Tomato-Food-Web-Frontend)
-#### [Food Web Backend](https://github.com/mudassir-codes-sys/Tomato-Food-Web-Backend)
-Full-stack food ordering web application with **user authentication**, **real-time database integration**, and a **responsive UI** using React.js, Tailwind CSS, and Express.js.
+#### 🔹 Job Portal Web Application
 
-#### [DSA Repository](https://github.com/mudassir-codes-sys/DSA-)
-Practice repository for **Data Structures & Algorithms** in JavaScript.
+A full-stack job portal where employers can post jobs and candidates can apply with resumes and cover letters. Includes role-based authentication, job filtering, application management, and **Stripe integration for premium features**.
 
-#### [JS Mini Projects](https://github.com/mudassir-codes-sys/js-mini-projects)
-Collection of small **interactive JavaScript projects** to strengthen frontend skills.
+**Tech:** Next.js, TypeScript, Tailwind CSS, Redux Toolkit, MongoDB, Zod, Cloudinary, Stripe
 
-#### [React Mini Projects](https://github.com/mudassir-codes-sys/React-mini-projects)
-First React mini-project: **Color Changer App** with smooth background transitions.
+---
+
+#### 🔹 Food Web Application
+
+**Frontend:** [https://github.com/mudassir-codes-sys/Tomato-Food-Web-Frontend](https://github.com/mudassir-codes-sys/Tomato-Food-Web-Frontend)
+**Backend:** [https://github.com/mudassir-codes-sys/Tomato-Food-Web-Backend](https://github.com/mudassir-codes-sys/Tomato-Food-Web-Backend)
+
+A full-stack food ordering web application featuring user authentication, database integration, and a responsive UI.
+
+**Tech:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB
+
+---
+
+#### 🔹 JavaScript & React Mini Projects
+
+* [https://github.com/mudassir-codes-sys/js-mini-projects](https://github.com/mudassir-codes-sys/js-mini-projects)
+* [https://github.com/mudassir-codes-sys/React-mini-projects](https://github.com/mudassir-codes-sys/React-mini-projects)
+
+A collection of interactive mini projects demonstrating core JavaScript and React concepts.
 
 ---
 
 ### 🌐 Let's Connect
-📧 Email: levelscure@gmail.com  
-💼 Portfolio (coming soon...)  
+
+📧 Email: [levelscure@gmail.com](mailto:levelscure@gmail.com)
+💼 Portfolio: (https://port-folio-frontend.vercel.app/)
 
 ---
 
-> “Every expert was once a beginner — keep building and keep learning.”
+> “Consistency and execution turn ideas into real products.”
